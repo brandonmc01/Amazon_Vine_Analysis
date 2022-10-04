@@ -3,7 +3,7 @@ CREATE TABLE review_id_table (
   customer_id INTEGER,
   product_id TEXT,
   product_parent INTEGER,
-  review_date DATE -- this should be in the formate yyyy-mm-dd
+  review_date DATE -- this should be in the format yyyy-mm-dd
 );
 
 -- This table will contain only unique values
